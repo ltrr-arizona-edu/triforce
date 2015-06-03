@@ -6,3 +6,4 @@ Description: A package to read the TRiDaS dendrochronological standard in R.
 Depends: R (>= 3.1.2)
 License: GPL-3
 LazyData: true
+Suggests: testthat
